@@ -2,6 +2,8 @@
 
 RPG de texto con IA en un universo de guerra perpetua. Proyecto del curso [Building an AI-Powered Game](https://www.deeplearning.ai/courses/building-an-ai-powered-game) de DeepLearning.AI y Together AI.
 
+![Portada de Cenithael RPG](assets/cover.png)
+
 ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![Gradio](https://img.shields.io/badge/Gradio-6.x-orange) ![Together AI](https://img.shields.io/badge/Together-AI-green)
 
 ## Características
@@ -108,6 +110,8 @@ Guarda el resultado en `data/cenithael_custom.json`. Luego usa **Nueva campaña*
 ```
 cenithael-rpg/
 ├── app.py                 # python app.py [--share]
+├── assets/
+│   └── cover.png          # Portada del juego
 ├── game/
 │   ├── engine.py          # Dados, PV, combate
 │   ├── gm.py              # Maestro de Juego (turnos, eventos)
