@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+saves/*.json
+data/cenithael_custom.json
+.DS_Store

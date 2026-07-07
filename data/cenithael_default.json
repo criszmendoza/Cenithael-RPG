@@ -1,0 +1,325 @@
+{
+  "nombre": "Cenithael",
+  "descripcion": "Cenithael es un mundo devastado por cruzadas perpetuas. Las fortalezas se alzan sobre los huesos de titanos caídos mientras millones luchan en trincheras de barro, hierro y fe. La Orden del Hierro Santo, la Legión de Ceniza y el Culto de la Grieta se desangran en un frente que no conoce la paz.",
+  "gancho": "Las campanas de alarma repican. Algo se mueve en la niebla del frente.",
+  "reinos": {
+    "Orden del Hierro Santo": {
+      "nombre": "Orden del Hierro Santo",
+      "descripcion": "Cruzada industrial de clérigos-guerreros y artilleros bajo el Arzobispo Martel.",
+      "mundo": "Cenithael",
+      "pueblos": {
+        "Trinchera del Juicio": {
+          "nombre": "Trinchera del Juicio",
+          "descripcion": "Frente principal. Barro, alambre y rezos bajo fuego de mortero.",
+          "gancho": "En Trinchera del Juicio suenan las alarmas. El enemigo avanza.",
+          "mundo": "Cenithael",
+          "reino": "Orden del Hierro Santo",
+          "personajes": {
+            "Marcus Veyl": {
+              "nombre": "Marcus Veyl",
+              "descripcion": "Cruzado con armadura abollada. Juró salvar a su hermana del frente sur.",
+              "gancho": "Marcus Veyl corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Orden del Hierro Santo",
+              "pueblo": "Trinchera del Juicio"
+            },
+            "Sor Corvina Ash": {
+              "nombre": "Sor Corvina Ash",
+              "descripcion": "Médica de campaña que ve visiones en la niebla.",
+              "gancho": "Sor Corvina Ash corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Orden del Hierro Santo",
+              "pueblo": "Trinchera del Juicio"
+            },
+            "Artillero Thane": {
+              "nombre": "Artillero Thane",
+              "descripcion": "Operador de mortero bendito. Cuenta cada disparo como un rezo.",
+              "gancho": "Artillero Thane corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Orden del Hierro Santo",
+              "pueblo": "Trinchera del Juicio"
+            }
+          }
+        },
+        "Bastión del Sacramento": {
+          "nombre": "Bastión del Sacramento",
+          "descripcion": "Fortín de reliquias y hospitales de campaña.",
+          "gancho": "En Bastión del Sacramento suenan las alarmas. El enemigo avanza.",
+          "mundo": "Cenithael",
+          "reino": "Orden del Hierro Santo",
+          "personajes": {
+            "Marcus Veyl": {
+              "nombre": "Marcus Veyl",
+              "descripcion": "Cruzado con armadura abollada. Juró salvar a su hermana del frente sur.",
+              "gancho": "Marcus Veyl corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Orden del Hierro Santo",
+              "pueblo": "Bastión del Sacramento"
+            },
+            "Sor Corvina Ash": {
+              "nombre": "Sor Corvina Ash",
+              "descripcion": "Médica de campaña que ve visiones en la niebla.",
+              "gancho": "Sor Corvina Ash corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Orden del Hierro Santo",
+              "pueblo": "Bastión del Sacramento"
+            },
+            "Artillero Thane": {
+              "nombre": "Artillero Thane",
+              "descripcion": "Operador de mortero bendito. Cuenta cada disparo como un rezo.",
+              "gancho": "Artillero Thane corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Orden del Hierro Santo",
+              "pueblo": "Bastión del Sacramento"
+            }
+          }
+        },
+        "Línea del Hierro": {
+          "nombre": "Línea del Hierro",
+          "descripcion": "Trinchera avanzada donde caen cien soldados al día.",
+          "gancho": "En Línea del Hierro suenan las alarmas. El enemigo avanza.",
+          "mundo": "Cenithael",
+          "reino": "Orden del Hierro Santo",
+          "personajes": {
+            "Marcus Veyl": {
+              "nombre": "Marcus Veyl",
+              "descripcion": "Cruzado con armadura abollada. Juró salvar a su hermana del frente sur.",
+              "gancho": "Marcus Veyl corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Orden del Hierro Santo",
+              "pueblo": "Línea del Hierro"
+            },
+            "Sor Corvina Ash": {
+              "nombre": "Sor Corvina Ash",
+              "descripcion": "Médica de campaña que ve visiones en la niebla.",
+              "gancho": "Sor Corvina Ash corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Orden del Hierro Santo",
+              "pueblo": "Línea del Hierro"
+            },
+            "Artillero Thane": {
+              "nombre": "Artillero Thane",
+              "descripcion": "Operador de mortero bendito. Cuenta cada disparo como un rezo.",
+              "gancho": "Artillero Thane corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Orden del Hierro Santo",
+              "pueblo": "Línea del Hierro"
+            }
+          }
+        }
+      }
+    },
+    "Legión de Ceniza": {
+      "nombre": "Legión de Ceniza",
+      "descripcion": "Veteranos que usan gas sagrado y bayonetas bajo la general Veyra.",
+      "mundo": "Cenithael",
+      "pueblos": {
+        "Foso de Ascuas": {
+          "nombre": "Foso de Ascuas",
+          "descripcion": "Línea donde el suelo aún arde por bombardeos.",
+          "gancho": "En Foso de Ascuas suenan las alarmas. El enemigo avanza.",
+          "mundo": "Cenithael",
+          "reino": "Legión de Ceniza",
+          "personajes": {
+            "Kael Riven": {
+              "nombre": "Kael Riven",
+              "descripcion": "Explorador con rostro quemado por gas. Busca su batallón perdido.",
+              "gancho": "Kael Riven corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Legión de Ceniza",
+              "pueblo": "Foso de Ascuas"
+            },
+            "Lira Ember": {
+              "nombre": "Lira Ember",
+              "descripcion": "Sargento de bayoneta. Mata con eficiencia y llora en silencio.",
+              "gancho": "Lira Ember corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Legión de Ceniza",
+              "pueblo": "Foso de Ascuas"
+            },
+            "Dorn el Silencioso": {
+              "nombre": "Dorn el Silencioso",
+              "descripcion": "Francotirador que no habla desde la Caída de Veyl.",
+              "gancho": "Dorn el Silencioso corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Legión de Ceniza",
+              "pueblo": "Foso de Ascuas"
+            }
+          }
+        },
+        "Línea de los Mártires": {
+          "nombre": "Línea de los Mártires",
+          "descripcion": "Trinchera convertida en matadero sin fin.",
+          "gancho": "En Línea de los Mártires suenan las alarmas. El enemigo avanza.",
+          "mundo": "Cenithael",
+          "reino": "Legión de Ceniza",
+          "personajes": {
+            "Kael Riven": {
+              "nombre": "Kael Riven",
+              "descripcion": "Explorador con rostro quemado por gas. Busca su batallón perdido.",
+              "gancho": "Kael Riven corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Legión de Ceniza",
+              "pueblo": "Línea de los Mártires"
+            },
+            "Lira Ember": {
+              "nombre": "Lira Ember",
+              "descripcion": "Sargento de bayoneta. Mata con eficiencia y llora en silencio.",
+              "gancho": "Lira Ember corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Legión de Ceniza",
+              "pueblo": "Línea de los Mártires"
+            },
+            "Dorn el Silencioso": {
+              "nombre": "Dorn el Silencioso",
+              "descripcion": "Francotirador que no habla desde la Caída de Veyl.",
+              "gancho": "Dorn el Silencioso corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Legión de Ceniza",
+              "pueblo": "Línea de los Mártires"
+            }
+          }
+        },
+        "Puente de los Condenados": {
+          "nombre": "Puente de los Condenados",
+          "descripcion": "Paso estratégico sobre un titán en descomposición.",
+          "gancho": "En Puente de los Condenados suenan las alarmas. El enemigo avanza.",
+          "mundo": "Cenithael",
+          "reino": "Legión de Ceniza",
+          "personajes": {
+            "Kael Riven": {
+              "nombre": "Kael Riven",
+              "descripcion": "Explorador con rostro quemado por gas. Busca su batallón perdido.",
+              "gancho": "Kael Riven corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Legión de Ceniza",
+              "pueblo": "Puente de los Condenados"
+            },
+            "Lira Ember": {
+              "nombre": "Lira Ember",
+              "descripcion": "Sargento de bayoneta. Mata con eficiencia y llora en silencio.",
+              "gancho": "Lira Ember corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Legión de Ceniza",
+              "pueblo": "Puente de los Condenados"
+            },
+            "Dorn el Silencioso": {
+              "nombre": "Dorn el Silencioso",
+              "descripcion": "Francotirador que no habla desde la Caída de Veyl.",
+              "gancho": "Dorn el Silencioso corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Legión de Ceniza",
+              "pueblo": "Puente de los Condenados"
+            }
+          }
+        }
+      }
+    },
+    "Culto de la Grieta": {
+      "nombre": "Culto de la Grieta",
+      "descripcion": "Profetas y flagelantes que veneran la herida abierta del mundo.",
+      "mundo": "Cenithael",
+      "pueblos": {
+        "Grieta Sangrienta": {
+          "nombre": "Grieta Sangrienta",
+          "descripcion": "Frente donde la tierra sangra y los susurros no cesan.",
+          "gancho": "En Grieta Sangrienta suenan las alarmas. El enemigo avanza.",
+          "mundo": "Cenithael",
+          "reino": "Culto de la Grieta",
+          "personajes": {
+            "Eira Grieta": {
+              "nombre": "Eira Grieta",
+              "descripcion": "Penitente que duda de sus profetas. Su mano sangra sin herida.",
+              "gancho": "Eira Grieta corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Culto de la Grieta",
+              "pueblo": "Grieta Sangrienta"
+            },
+            "Morth the Whisper": {
+              "nombre": "Morth the Whisper",
+              "descripcion": "Profeta que cree que la guerra es un sueño.",
+              "gancho": "Morth the Whisper corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Culto de la Grieta",
+              "pueblo": "Grieta Sangrienta"
+            },
+            "Sable Nyx": {
+              "nombre": "Sable Nyx",
+              "descripcion": "Asesina de reliquias. Vende secretos a ambos bandos.",
+              "gancho": "Sable Nyx corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Culto de la Grieta",
+              "pueblo": "Grieta Sangrienta"
+            }
+          }
+        },
+        "Cámara del Eco": {
+          "nombre": "Cámara del Eco",
+          "descripcion": "Túneles bajo el titán caído. La locura acecha.",
+          "gancho": "En Cámara del Eco suenan las alarmas. El enemigo avanza.",
+          "mundo": "Cenithael",
+          "reino": "Culto de la Grieta",
+          "personajes": {
+            "Eira Grieta": {
+              "nombre": "Eira Grieta",
+              "descripcion": "Penitente que duda de sus profetas. Su mano sangra sin herida.",
+              "gancho": "Eira Grieta corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Culto de la Grieta",
+              "pueblo": "Cámara del Eco"
+            },
+            "Morth the Whisper": {
+              "nombre": "Morth the Whisper",
+              "descripcion": "Profeta que cree que la guerra es un sueño.",
+              "gancho": "Morth the Whisper corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Culto de la Grieta",
+              "pueblo": "Cámara del Eco"
+            },
+            "Sable Nyx": {
+              "nombre": "Sable Nyx",
+              "descripcion": "Asesina de reliquias. Vende secretos a ambos bandos.",
+              "gancho": "Sable Nyx corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Culto de la Grieta",
+              "pueblo": "Cámara del Eco"
+            }
+          }
+        },
+        "Altar de la Ceniza": {
+          "nombre": "Altar de la Ceniza",
+          "descripcion": "Santuario profanado convertido en nido de herejes.",
+          "gancho": "En Altar de la Ceniza suenan las alarmas. El enemigo avanza.",
+          "mundo": "Cenithael",
+          "reino": "Culto de la Grieta",
+          "personajes": {
+            "Eira Grieta": {
+              "nombre": "Eira Grieta",
+              "descripcion": "Penitente que duda de sus profetas. Su mano sangra sin herida.",
+              "gancho": "Eira Grieta corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Culto de la Grieta",
+              "pueblo": "Altar de la Ceniza"
+            },
+            "Morth the Whisper": {
+              "nombre": "Morth the Whisper",
+              "descripcion": "Profeta que cree que la guerra es un sueño.",
+              "gancho": "Morth the Whisper corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Culto de la Grieta",
+              "pueblo": "Altar de la Ceniza"
+            },
+            "Sable Nyx": {
+              "nombre": "Sable Nyx",
+              "descripcion": "Asesina de reliquias. Vende secretos a ambos bandos.",
+              "gancho": "Sable Nyx corre hacia el frente mientras el cielo arde.",
+              "mundo": "Cenithael",
+              "reino": "Culto de la Grieta",
+              "pueblo": "Altar de la Ceniza"
+            }
+          }
+        }
+      }
+    }
+  }
+}
